@@ -16,7 +16,7 @@ This project demonstrates portfolio optimization using Monte Carlo simulations a
 ## Requirements
 Install dependencies using:
 ```bash
-pip install -r 
+pip install -r requirements.txt
 ```
 ---
 

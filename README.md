@@ -1,5 +1,26 @@
-<<<<<<< HEAD
-# portfolio-optimization
-=======
-This is a quick little portfolio optimization project I made after reading various medium articles!
->>>>>>> 453b402 (feat: new project)
+# Portfolio Optimization
+
+This project demonstrates portfolio optimization using Monte Carlo simulations and mean-variance optimization. It analyzes historical stock data to calculate optimal portfolio weights that maximize the Sharpe ratio.
+
+---
+
+## Features
+- Fetches historical stock data using `yfinance`.
+- Calculates returns, volatility, and Sharpe ratio.
+- Visualizes stock prices, returns, and correlations.
+- Implements Monte Carlo simulations for portfolio optimization.
+- Uses `scipy.optimize` to find optimal portfolio weights.
+
+---
+
+## Requirements
+Install dependencies using:
+```bash
+pip install -r 
+```
+---
+
+## Usage
+- Run the Jupyter Notebook portfolio_optimization.ipynb to execute the analysis and visualize results. 
+
+---
